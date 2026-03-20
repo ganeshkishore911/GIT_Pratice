@@ -1,3 +1,2 @@
 const sample = () => {
-    return "some word"
-}
+    return "
